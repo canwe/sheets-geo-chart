@@ -1,0 +1,32 @@
+{
+  "name": "geo-chart",
+  "version": "0.0.1",
+  "authors": [
+    "Laura Camellini <jeeltcraft@gmail.com>"
+  ],
+  "description": "google-sheets data to google geo-chart, created for spaghettiopendata.org",
+  "main": "geo-chart.html",
+  "keywords": [
+    "opendata",
+    "google-sheets",
+    "geo-chart",
+    "interactive",
+    "chart"
+  ],
+  "license": "MIT",
+  "homepage": "http://sheets-charts.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponents": "Polymer/webcomponents",
+    "polymer": "Polymer/polymer#~0.5.5",
+    "core-elements": "Polymer/core-elements#~0.5.5",
+    "google-apis": "~0.4.4",
+    "paper-elements": "Polymer/paper-elements#~0.5.5"
+  }
+}
