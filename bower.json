@@ -5,7 +5,7 @@
     "Laura Camellini <jeeltcraft@gmail.com>"
   ],
   "description": "google-sheets data to google geo-chart, created for spaghettiopendata.org",
-  "main": "geo-chart.html",
+  "main": "sheets-geo-chart.html",
   "keywords": [
     "opendata",
     "google-sheets",
