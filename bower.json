@@ -24,6 +24,6 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#~0.5.5",
-    "google-apis": "~0.4.4",
+    "google-apis": "~0.4.4"
   }
 }
